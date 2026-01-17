@@ -1,0 +1,5 @@
+Monthly Sales Summary
+---------------------
+Total Orders: 4
+Total Revenue: INR 170000
+Top Product: Laptop

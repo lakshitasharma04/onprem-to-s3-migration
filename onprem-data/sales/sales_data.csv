@@ -1,0 +1,5 @@
+order_id,customer,product,quantity,price
+1001,Alice,Laptop,1,75000
+1002,Bob,Phone,2,40000
+1003,Charlie,Tablet,1,30000
+1004,David,Monitor,2,25000
